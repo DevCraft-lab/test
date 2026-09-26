@@ -1643,6 +1643,7 @@ footer {
     .nav-actions {
         order: 3;
         margin-top: 4px;
+        margin-right: auto;
     }
 
     .logo {
